@@ -1,0 +1,7 @@
+**/.venv/
+**/__pycache__/
+airflow/data/
+airflow/logs/
+airflow/plugins/
+*.csv
+WWI_DATA.zip
